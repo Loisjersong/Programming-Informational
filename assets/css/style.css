@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'PlayfairDisplay';
+    src: url('../fonts/PlayfairDisplay and SourceSansPro/PlayfairDisplay/PlayfairDisplay-BoldItalic.ttf');
+}
+
+@font-face {
+    font-family: 'SourceSansDisplay';
+    src: url('../fonts/PlayfairDisplay and SourceSansPro/SourceSansPro/SourceSansPro-Regular.ttf');
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'PlayfairDisplay';
+}
+
+p {
+    font-family: 'SourceSansDisplay';
+}
